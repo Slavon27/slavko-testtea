@@ -1,0 +1,12 @@
+{
+  "name": "slavko-testtea",
+  "version": "1.0.0",
+  "description": "Test project for tea protocol",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Slavon27/slavko-testtea.git"
+  },
+  "author": "Slavon27",
+  "license": "MIT"
+}
